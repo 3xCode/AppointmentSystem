@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/login"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/login"/>
+    <item
+        android:id="@+id/signup"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/signup"/>
+    <item
+        android:id="@+id/changepwd"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/changepassword"/>
+    <item
+        android:id="@+id/myorder"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/myorder"/>
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/logout"/>
+
+</menu>

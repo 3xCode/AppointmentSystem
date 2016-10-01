@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">机房预约系统</string>
+    <string name="login">登录</string>
+    <string name="signup">注册</string>
+    <string name="changepassword">修改密码</string>
+    <string name="title_alert">登录</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="order">预约</string>
+    <string name="myorder">我的预约</string>
+    <string name="cancelorder">取消预约</string>
+    <string name="time1">1\n2</string>
+    <string name="time2">3\n4</string>
+    <string name="time3">5\n6</string>
+    <string name="time4">7\n8</string>
+    <string name="time5">9\n10</string>
+    <string name="spinnertitle">请选择日期</string>
+    <string name="pwdremind">密码为6-15位字母或数字组合</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sp">SpActivity</string>
+    <string name="logout">退出登录</string>
+    <string name="content">《同意协议》</string>
+    <string name="resgister_ad_clause_title">服务条款</string>
+    <string name="shuoming">两节课为一个预约单位，开放时间：\n上午8:00-11:50(两节)\n下午:14:30-16:00(两节)\n晚上19:00-20:40(两节)	</string>
+    <string name="shuoming2">两节课为一个预约单位，开放时间：\n上午8:00-11:50(两节)\n下午:14:30-16:00(两节)\n晚上19:00-20:40(两节)\n（其中周一和周二的课为1-9周）</string>
+    <string name="registercontent">预约规则\n
+1、只能预约7天之内的自主学习时间，7天之内最多只能预约到2次。\n
+2、预约成功后，如果不能按时到机房，请至少提前12小时取消预约；如果没有及时取消预约，又没有按时到机房，达到2次暂停预约资格。\n
+3、请按预约时间到机房学习，不能迟到，不能早退。\n
+4、进入机房，服从老师的安排，遵守机房的相关规定。\n
+5、在机房学习期间，只能进行与本学期开设课程“大学计算机基础”相关的MOOC学习等，不能进行与“大学计算机基础”课程学习不相关的其他操作，不能影响其他人的学习。\n
+6、这个app是试用阶段。</string>
+</resources>
